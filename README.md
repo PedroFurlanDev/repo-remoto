@@ -1,1 +1,1 @@
-# repo-remoto
+Descrição inserida nmo repositório antes do clone.
